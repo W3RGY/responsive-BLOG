@@ -40,3 +40,19 @@ main {
 .category:hover {
 	background: rgba(255, 255, 255, 0.5);
 }
+
+.title {
+	font-weight: 700;
+	font-size: 36px;
+	line-height: 127.777778%;
+	color: #fff;
+}
+
+.title_dark {
+	color: #495057;
+}
+
+.text {
+	font-size: 12px;
+	line-height: 166.666667%;
+}
